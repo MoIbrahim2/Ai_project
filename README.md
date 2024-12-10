@@ -1,6 +1,15 @@
-This project is an AI-based solution designed to assist in medical diagnostics by analyzing medical data to detect two critical health conditions:
+This project leverages artificial intelligence to assist in diagnosing two critical health conditions, aiming to enhance medical accuracy and efficiency:
 
-Parkinson's Disease
-Brain Tumors
+Parkinson's Disease: Early detection using patient data such as acoustic signals and motion biomarkers, helping in timely intervention.
 
-The project leverages some advanced machine learning models to provide accurate and efficient diagnostic support, reducing the time required for analysis and minimizing the likelihood of human error.
+Brain Tumors: Analysis and classification of tumors through medical imaging, including MRI scans, to support treatment planning.
+
+By automating parts of the diagnostic process, this project seeks to minimize human error, speed up analysis, and improve patient outcomes. It provides a foundation for integrating AI into healthcare systems for advanced diagnostic support.
+
+....................................................................................................................................................
+Models Used
+
+Parkinson's Disease: Decision Tree, Logistic Regression, Random Forest, K-Nearest Neighbors (KNN), Support Vector Machine (SVM)
+
+Brain Tumors: ,Sequential (Deep Learning) ,Support Vector Machine (SVM), K-Nearest Neighbors (KNN)
+
